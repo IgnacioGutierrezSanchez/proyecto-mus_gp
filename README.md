@@ -145,6 +145,6 @@
 - [Diego Alonso Arceiz](https://github.com/diegal04)
 - [Carlos Mantilla Mateos](https://github.com/c123qw)
 - [Mario López Díaz](https://github.com/ARTEMVARTANOV)
-- [Ignacio Gutiérrez Sánchez](https://github.com/nacho2606)
+- [Ignacio Gutiérrez Sánchez](https://github.com/IgnacioGutierrezSanchez)
 
   
